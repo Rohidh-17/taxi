@@ -1,6 +1,5 @@
 <html>
-    <script src="https://maps.googleapis.com/maps/api/js?libraries=places&key=AIzaSyDzb6ZPaYmJ4cywYfvB3KOya3dD2xVHWfs&callback=initMap" async defer></script>
-
+    <script src="https://maps.googleapis.com/maps/api/js?libraries=places&key=
     <script>
     function initMap() {
         var map = new google.maps.Map(document.getElementById('map'), {
