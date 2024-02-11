@@ -1,5 +1,5 @@
 
-<script src="https://maps.googleapis.com/maps/api/js?libraries=places&key=AIzaSyDzb6ZPaYmJ4cywYfvB3KOya3dD2xVHWfs&libraries=places" ></script>
+<script src="https://maps.googleapis.com/maps/api/js?libraries=places&key=&libraries=places" ></script>
 
 <button id="getLocationButton" onclick="getLocation()">Get My Current Location</button>
 <div id="map" style="width: 1080px; height: 800px;"></div>
