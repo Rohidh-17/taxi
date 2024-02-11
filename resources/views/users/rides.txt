@@ -23,7 +23,7 @@
 @endsection
 
 <html>
-<script src="https://maps.googleapis.com/maps/api/js?libraries=places&key=AIzaSyDzb6ZPaYmJ4cywYfvB3KOya3dD2xVHWfs&callback=initMap" async defer></script>
+<script src="https://maps.googleapis.com/maps/api/js?libraries=places&key=&callback=initMap" async defer></script>
 
 <script>
 function initMap() {
